@@ -1,0 +1,4 @@
+deploy.yaml
+.git
+node_modules
+.gitignore
